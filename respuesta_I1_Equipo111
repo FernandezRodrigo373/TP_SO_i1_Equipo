@@ -1,3 +1,7 @@
 Fernandez Barbero Rodrigo
 Buonfrate Franco
 Alvarez Gonzalo
+
+a- ALFA ve los datos cargados por el resto de los colaboradores en el archivo "datos" de formato texto acerca de la direccion IP y la hora en la que se realizo la carga de los datos por parte de BETA y GAMMA.
+
+b- ALFA subio los archivos de manera correcta para que tanto BETA como GAMMA puedan utilizarlos, todos los archivos añadidos y modificados por parte de ALFA pueden visualizarse por el resto de los colaboradores.
