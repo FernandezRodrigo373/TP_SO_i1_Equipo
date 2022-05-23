@@ -9,3 +9,5 @@ b- ALFA subio los archivos de manera correcta para que tanto BETA como GAMMA pue
 c- Si BETA agrega un archivo al repositorio, en el cual tiene privilegios de colaborador, el resto de los colaboradores podran verlo, descargarlo e incluso editarlo. 
 
 d- La comunicacion en el grupo fue mayormente por whatsapp, pero frente a un par de inconvenientes vimos mas practico migrar a discord.
+
+e- La mejor forma de comunicarse dentro de github es a traves de la pestaña project, donde cada integrante puede ir actualizando las tareas realizadas y a realizar.
